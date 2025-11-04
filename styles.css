@@ -12,3 +12,21 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+
+/* Header/Navigation Styles */
+.first_name {
+  color: var(--primary-color);
+}
+
+.last_name {
+  color: var(--text-color);
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
